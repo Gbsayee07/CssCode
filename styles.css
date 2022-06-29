@@ -1,0 +1,95 @@
+h1{
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+hr{
+	border: 2px solid black;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.before{
+	margin-left: 300px;
+	border-radius: 50%;
+	width: 50%;
+	max-width: 100%;
+}
+
+
+
+.after{
+	margin-top: 100px;
+	margin-left: 300px;
+	border-radius: 25%;
+	width: 90%;
+	max-width: 60%;
+}
+
+.after:hover {
+	margin-top: 0px;
+	margin-left: 300px;
+	border-radius: 35%;
+	width: 90%;
+	max-width: 60%;
+}
+
+
+
+
+.SHANKS{
+	font-size: 20px;
+	color: blue;
+}
+
+#Luffy{
+	font-size: 30px;
+	color: green;
+}
+
+p{
+	font-family: "Audiowide", sans-serif;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+	margin: 90px;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+li a:hover {
+	color: red;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+
+
+
+
+
+
